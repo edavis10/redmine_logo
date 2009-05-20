@@ -1,4 +1,4 @@
-There are three version of vector images in this project.
+There are three versions of vector images in this project.
 
 * ai - Adobe Illustrator format
 * pdf - Adobe Reader format
